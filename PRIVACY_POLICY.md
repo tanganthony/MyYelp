@@ -13,7 +13,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/tanganthony/MyYelp/app/src/main/AndroidManifest.xml#L7
+https://github.com/tanganthony/MyYelp/blob/main/app/src/main/AndroidManifest.xml#L4
 
 <br/>
 
