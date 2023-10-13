@@ -5,6 +5,12 @@ Search result is powered by Yelp.
 
 
 # Feature
+1. Jetpack Compose
 1. Retrofit
-1. Glide
+1. Coil
 
+
+# Screenshot Video
+| MainActivity |
+|:-:|
+| ![home](screenshots/recording.webm) |

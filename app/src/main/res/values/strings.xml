@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">MyYelp</string>
-    <string name="restaurant_image">restaurant image</string>
-    <string name="search">Search</string>
-    <string name="location_hint">Location (ie, New York)</string>
-    <string name="search_hint">Item (ie, Seafood ...etc)</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="error">Error</string>
 </resources>
